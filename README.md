@@ -1,13 +1,22 @@
 # cs131-project
 Fall 2025 CS 131 Project
 
-# Name of Application/Website
+# Name of Application
+Secure Messaging App
 
 ## Overview
-Description...
+Secure Messaging App
+ •    Usage: Provides a safe communication platform with strong privacy.
+
 
 ### Key Features
-- 
+ Features:
+ •    End-to-end encryption for messages, calls, and files
+ •    Self-destructing/temporary messages
+ •    Anonymous chat rooms or private groups
+ •    Multi-device sync without compromising security
+ •    Open-source security audit for transparency
+ •    AI summarizing and utilization (privacy warning shown due to data collection)
 
 ## Setup Instructions
 
